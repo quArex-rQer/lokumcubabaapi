@@ -1,4 +1,4 @@
-Bu proje BuludMD Yazılım şirketi için yazılmıştır.
+
 
 Kullanılan back end teknolojileri : Node.js Veri tabani teknolojisi : MongoDB
 
